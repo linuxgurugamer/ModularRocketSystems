@@ -1,0 +1,37 @@
+Modular Rocket Systems Parts List (old name),,,MRS Lite,,,
+,,,,,,
+Old Name,File,,Name,File,,
+,,,,,,
+NB0mtank1,FuelTank/NB0mtank1/mrs-tank-0625-lfo-1.cfg,mrs-tank-0625-lfo-1.cfg,NB0mtank1,FuelTank/NB0mtank1/part.cfg,CargoBays/cargoBay-Specular.dds,cargoBay-Specular.dds
+NB2mNuclearEngine,Engine/NB2mNuclearEngine/mrs-eng-250-nuc.cfg,mrs-eng-250-nuc.cfg,NB2mNuclearEngine,Engine/NB2mNuclearEngine/part.cfg,CargoBays/cargoBay1m-Specular.dds,cargoBay1m-Specular.dds
+NB3mHoundEngine,Engine/NB3mHoundEngine/mrs-eng-375-hound.cfg,mrs-eng-375-hound.cfg,NB3mHoundEngine,Engine/NB3mHoundEngine/part.cfg,CommandElectric/NBbigASAS/bigASAS-Emissive.dds,bigASAS-Emissive.dds
+NBbigASAS,Control/mrs-sas-375.cfg,mrs-sas-375.cfg,NBbigASAS,CommandElectric/NBbigASAS/part.cfg,CommandElectric/NBbigASAS/bigASAS-Specular.dds,bigASAS-Specular.dds
+NBcargoBay1m1,CargoBays/mrs-bay-cargo-125.cfg,mrs-bay-cargo-125.cfg,NBcargoBay1m1,CargoBays/cargoBay1m1.cfg,CommandElectric/NBprobeRadial/probeRadial-Emissive.dds,probeRadial-Emissive.dds
+NBcargoBay2m0,CargoBays/mrs-bay-cargo-250-short.cfg,mrs-bay-cargo-250-short.cfg,NBcargoBay2m0,CargoBays/cargoBay2m0.cfg,CommandElectric/NBprobeRadial/probeRadial-Specular.dds,probeRadial-Specular.dds
+NBcargoBay2m1,CargoBays/mrs-bay-cargo-250-long.cfg,mrs-bay-cargo-250-long.cfg,NBcargoBay2m1,CargoBays/cargoBay2m1.cfg,Engine/NB2mNuclearEngine/2mNuclearEngine-Emissive.dds,2mNuclearEngine-Emissive.dds
+NBconeTank2m,FuelTank/NBconeTank2m/mrs-tank-250-cone.cfg,mrs-tank-250-cone.cfg,NBconeTank2m,FuelTank/NBconeTank2m/part.cfg,Engine/NB2mNuclearEngine/2mNuclearEngine-Shroud-Specular.dds,2mNuclearEngine-Shroud-Specular.dds
+NBconeTank3m,FuelTank/NBconeTank3m/mrs-tank-375-cone.cfg,mrs-tank-375-cone.cfg,NBconeTank3m,FuelTank/NBconeTank3m/part.cfg,Engine/NB2mNuclearEngine/2mNuclearEngine-Specular.dds,2mNuclearEngine-Specular.dds
+NBdecouplerLowProfile2m,Coupling/mrs-decoup-250-lp.cfg,mrs-decoup-250-lp.cfg,NBdecouplerLowProfile2m,Utility/NBdecouplerLowProfile2m/part.cfg,Engine/NB3mHoundEngine/3mTerrierEngine-Emissive.dds,3mTerrierEngine-Emissive.dds
+NBdecouplerRadialMini,Coupling/mrs-decoup-radial-mini.cfg,mrs-decoup-radial-mini.cfg,NBdecouplerRadialMini,Utility/NBdecouplerRadialMini/part.cfg,Engine/NB3mHoundEngine/3mTerrierEngine-Specular.dds,3mTerrierEngine-Specular.dds
+NBdockingHelper0,Utility/mrs-dock-help-0625.cfg,mrs-dock-help-0625.cfg,NBdockingHelper0,Utility/NBdockingHelper0/part.cfg,FuelCell/NBfuelCell1m-Specular.dds,NBfuelCell1m-Specular.dds
+NBdockingHelper1,Utility/mrs-dock-help-125.cfg,mrs-dock-help-125.cfg,NBdockingHelper1,Utility/NBdockingHelper1/part.cfg,FuelTank/NB0mtank1/0mtank1-Specular.dds,0mtank1-Specular.dds
+NBdockingHelper2,Utility/mrs-dock-help-250.cfg,mrs-dock-help-250.cfg,NBdockingHelper2,Utility/NBdockingHelper2/part.cfg,FuelTank/NBconeTank2m/coneTank2mSpecular.dds,coneTank2mSpecular.dds
+NBflingatron,Engine/mrs-flingatron.cfg,mrs-flingatron.cfg,NBflingatron,Utility/NBflingatron/part.cfg,FuelTank/NBconeTank3m/coneTankSpecular.dds,coneTankSpecular.dds
+NBfuelCell1m,Electrical/mrs-fuelcell-125.cfg,mrs-fuelcell-125.cfg,NBfuelCell1m,FuelCell/NBfuelCell1m.cfg,FuelTank/NBjumboThreeQ/jumboThreeQSpecular.dds,jumboThreeQSpecular.dds
+NBinlineDrill,Resource/mrs-drill-250.cfg,mrs-drill-250.cfg,NBinlineDrill,Resources/NBinlineDrill.cfg,FuelTank/NBmonoprop3m/monoprop3mSpecular.dds,monoprop3mSpecular.dds
+NBjumboThreeQ,FuelTank/NBjumboThreeQ/mrs-tank-250-jumbo-075.cfg,mrs-tank-250-jumbo-075.cfg,NBjumboThreeQ,FuelTank/NBjumboThreeQ/part.cfg,FuelTank/NBradialMiniTank/radialMiniTankSpecular.dds,radialMiniTankSpecular.dds
+NBlandingLeg1,Ground/mrs-leg-1.cfg,mrs-leg-1.cfg,NBlandingLeg1,LandingLegs/NBlandingLeg1/NBlandingLeg1.cfg,LAS/LASshroud/LASshroud-Specular.dds,LASshroud-Specular.dds
+NBLASshroud,LAS/mrs-LAS-shroud.cfg,mrs-LAS-shroud.cfg,NBLASshroud,LAS/LASshroud/part.cfg,LAS/LAStower/LAStower-Specular.dds,LAStower-Specular.dds
+NBLAStower,LAS/mrs-LAS-tower.cfg,mrs-LAS-tower.cfg,NBLAStower,LAS/LAStower/part.cfg,LandingLegs/NBlandingLeg1/NBlandingLeg1-Specular.dds,NBlandingLeg1-Specular.dds
+NBmonoprop3m,FuelTank/NBmonoprop3m/mrs-eng-375-mono.cfg,mrs-eng-375-mono.cfg,NBmonoprop3m,FuelTank/NBmonoprop3m/part.cfg,RCS/rcsBlock-Specular.dds,rcsBlock-Specular.dds
+NBprobeRadial,Command/mrs-probe-radial-1.cfg,mrs-probe-radial-1.cfg,NBprobeRadial,CommandElectric/NBprobeRadial/part.cfg,RTG/NBrtg1-Specular.mbm,NBrtg1-Specular.mbm
+NBprobeRadial2,Command/mrs-probe-radial-2.cfg,mrs-probe-radial-2.cfg,NBprobeRadial2,CommandElectric/NBprobeRadial/part2.cfg,Resources/NBinlineDrill-Specular.dds,NBinlineDrill-Specular.dds
+NBradialMiniTank,FuelTank/NBradialMiniTank/mrs-tank-radial-mini.cfg,mrs-tank-radial-mini.cfg,NBradialMiniTank,FuelTank/NBradialMiniTank/part.cfg,Resources/resourceContainer_DIFF.dds,resourceContainer_DIFF.dds
+NBrcs5block,Control/mrs-rcs-5.cfg,mrs-rcs-5.cfg,NBrcs5block,RCS/NBrcs5block.cfg,Resources/resourceContainer_NRM.dds,resourceContainer_NRM.dds
+NBrcsCorner,Control/mrs-rcs-corner.cfg,mrs-rcs-corner.cfg,NBrcsCorner,RCS/NBrcsCorner.cfg,Resources/TriBitDrill.dds,TriBitDrill.dds
+NBrtg1,Electrical/mrs-rtg-125.cfg,mrs-rtg-125.cfg,NBrtg1,RTG/NBrtg1.cfg,Utility/NBdecouplerLowProfile2m/decouplerLowProfile2mSpecular.dds,decouplerLowProfile2mSpecular.dds
+,,,,,Utility/NBdecouplerRadialMini/miniRadialDecouplerSpecular.dds,miniRadialDecouplerSpecular.dds
+,,,,,Utility/NBdockingHelper0/dockingHelper0Specular.dds,dockingHelper0Specular.dds
+,,,,,Utility/NBdockingHelper1/dockingHelperSpecular.dds,dockingHelperSpecular.dds
+,,,,,Utility/NBdockingHelper2/dockingHelper2Specular.dds,NBdockingHelper2/dockingHelper2Specular.dds
+,,,,,Utility/NBflingatron/flingatronSpecular.dds,NBflingatron/flingatronSpecular.dds
