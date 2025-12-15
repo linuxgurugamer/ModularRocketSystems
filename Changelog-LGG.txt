@@ -2,10 +2,19 @@ Changelog
 
 1.14.0.0
 	Adoption by Linuxgurugamer
+	Removed all ND files created by @zer0kerbal which were just documentation fluff
+	Deleted github workflow files
+	Added support for PatchManager for the GhostConfig file
+	Added Lite directory
+	added Jenkins files
+	Misc other stuff
+
 	Stripped out all headers added by zer0kerbal
 	Moved directory for ModularRocketSystems up one level, getting rid of the NecroBones directory
 	Adjusted paths for directory change
-
+	Localized more tags
+	Removed broken MM path from zer0kerbal which was putting multiple localized tags on a single line
+	
 
 ============================================================================
 
