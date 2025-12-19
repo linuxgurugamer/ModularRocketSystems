@@ -14,6 +14,10 @@ Changelog
 	Adjusted paths for directory change
 	Localized more tags
 	Removed broken MM path from zer0kerbal which was putting multiple localized tags on a single line
+
+	Added support for B9PartSwitch
+	Added support for CryoTanks (using B9)
+	Added support for Community Resource pack
 	
 
 ============================================================================
