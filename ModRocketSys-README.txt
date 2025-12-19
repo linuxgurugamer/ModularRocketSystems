@@ -1,11 +1,12 @@
 Modular Rocket Systems - Part Pack
+Adopted by Linuxgurugamer
 
 by Ed T. Toton III, aka NecroBones.
 
 
 Installation:
 
-Simply copy the "ModRocketSys" folder into your GameData folder. If upgrading from a 
+Simply copy the "ModularRocketSysSystems" folder into your GameData folder. If upgrading from a 
 previous version, be sure to delete the old one from GameData first (this is the cleanest
 option).
 
@@ -29,13 +30,11 @@ send a private message to NecroBones on the KSP forums. Thanks!
 
 
 Forum Release-Thread:
-http://forum.kerbalspaceprogram.com/threads/93067
+https://forum.kerbalspaceprogram.com/topic/229398-112x-modular-rocket-systems-under-construction/
 
-Kerbal Stuff (download):
-https://kerbalstuff.com/mod/148/Modular%20Rocket%20Systems%20-%20Parts%20Pack
-
-Curse.com (download):
-http://kerbal.curseforge.com/ksp-mods/224105-modular-rocket-systems-stock-alike-parts-mod
+Download (Spacedock, full and lite versions)
+https://spacedock.info/mod/86/Modular%20Rocket%20Systems
+https://spacedock.info/mod/87/Modular%20Rocket%20Systems%20LITE
 
 This parts pack is being shared under the CC-BY-NC-SA license:
 http://creativecommons.org/licenses/by-nc-sa/4.0/
