@@ -16,8 +16,11 @@ Changelog
 	Removed broken MM path from zer0kerbal which was putting multiple localized tags on a single line
 
 	Added support for B9PartSwitch
-	Added support for CryoTanks (using B9)
+	Added support for CryoTanks (using B9PartSwitch only)
 	Added support for Community Resource pack
+	Fixed the Firespitter patch to actually work
+
+	Balanced the fuel capacity of the tanks
 	
 
 ============================================================================

@@ -78,16 +78,15 @@ for i in $cfgfiles; do
 	if [ "$model" != "" ]; then
 		echo $model
 		m=`echo $model | cut -f3 -d' '`
-		echo $m
 		ls $m.mu
 		d=`echo $m | sed 's/ModularRocketSystems/ModularRocketSystemsLite/'`
-		echo $d
 		cp $m.mu $d.mu
 	fi
 	sed  's/ModularRocketSystems/ModularRocketSystemsLite/' ModularRocketSystems/Parts/$i >ModularRocketSystemsLite/Parts/$i
 done
 
 for i in $imgfiles; do
+	echo $i
 	m=`find ModularRocketSystems -name $i -print`
 	d=`echo $m | sed 's/ModularRocketSystems/ModularRocketSystemsLite/'`
 	cp $m $d
