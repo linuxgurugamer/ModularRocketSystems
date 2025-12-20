@@ -21,7 +21,7 @@ Changelog
 	Fixed the Firespitter patch to actually work
 
 	Balanced the fuel capacity of the tanks
-	
+	Added support for VABOrganizer
 
 ============================================================================
 
