@@ -22,6 +22,9 @@ Changelog
 
 	Balanced the fuel capacity of the tanks
 	Added support for VABOrganizer
+	Adjusted thrust levels for the following engines:
+		NB3mHoundEngine
+		NB3mQuadEngine
 
 ============================================================================
 
