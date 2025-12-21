@@ -26,6 +26,7 @@ Changelog
 		NB3mHoundEngine
 		NB3mQuadEngine
 	Added patch for restock for the fuel cell
+	Big thanks to @JadeOfMaar for all the assistance he gave me with this mod.
 ============================================================================
 
 
