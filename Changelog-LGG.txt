@@ -25,7 +25,7 @@ Changelog
 	Adjusted thrust levels for the following engines:
 		NB3mHoundEngine
 		NB3mQuadEngine
-
+	Added patch for restock for the fuel cell
 ============================================================================
 
 
