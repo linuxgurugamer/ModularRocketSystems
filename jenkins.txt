@@ -29,7 +29,8 @@
 
 # 3:SOURCEFILE, DESTDIR
 3:ModularRocketSystems.version,GameData/ModularRocketSystems
-
+3:README.md,GameData/ModularRocketSystems
+3:License.md,GameData/ModularRocketSystems
 
 #
 # End of file
