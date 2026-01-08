@@ -26,10 +26,13 @@ Changelog
 		NB3mHoundEngine
 		NB3mQuadEngine
 	Added patch for restock for the fuel cell
+  Thanks to @JadeOfMaar for fixing the lighting in the docking helper parts
 	Big thanks to @JadeOfMaar for all the assistance he gave me with this mod.
+
+
 ============================================================================
 
-
+Following documents changes that @zer0Kerbal did 
 
 ## Version 1.13.99.2-prerelease - `<Спасибо evanisrael+ngx-ree>` edition
 
