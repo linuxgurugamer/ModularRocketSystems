@@ -28,7 +28,7 @@
 
 
 # 3:SOURCEFILE, DESTDIR
-3:ModularRocketSystems.version,GameData/ModularRocketSystemsLite
+3:ModularRocketSystemsLITE.version,GameData/ModularRocketSystemsLite
 3:README.md,GameData/ModularRocketSystemsLite
 3:License.md,GameData/ModularRocketSystemsLite
 
