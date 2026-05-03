@@ -1,5 +1,11 @@
 Changelog
 
+1.14.1
+  Thanks for user @QuaintAlien for the following fixes:
+    Fixed syntax error in the GhostConfig to properly hide old parts
+    Adjusted maxthrust of the mrs-eng-375-quad from 8000 down to 4500
+  Added support for Waterfall plumes
+
 1.14.0.0
 	Adoption by Linuxgurugamer
 	Removed all ND files created by @zer0kerbal which were just documentation fluff
